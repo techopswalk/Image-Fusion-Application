@@ -27,6 +27,9 @@ To install the Image Fusion Qt GUI Application, simply download the latest relea
 4. Preview the fused image and make any necessary adjustments.
 5. Export the final fused image to your desired file format.
 
+![new UI](https://github.com/techopswalk/Image-Fusion-Application/assets/163547996/96bfefce-eee6-4a67-a282-bdf1eecaf686)
+
+
 For more detailed usage instructions, please refer to the [User Manual](https://github.com/your-username/image-fusion-qt/blob/main/docs/user-manual.md).
 
 ### Feedback and Contributions
@@ -36,3 +39,5 @@ We welcome feedback and contributions from the community. If you encounter any i
 If you would like to contribute to the development of the Image Fusion Qt GUI Application, please check out our [contributing guidelines](https://github.com/your-username/image-fusion-qt/blob/main/CONTRIBUTING.md) and submit a pull request.
 
 Thank you for your interest in our project! We hope you find the Image Fusion Qt GUI Application useful for your image processing needs.
+
+
