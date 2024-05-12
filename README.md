@@ -34,7 +34,7 @@ For more detailed usage instructions, please refer to the [User Manual](https://
 
 ### Feedback and Contributions
 
-We welcome feedback and contributions from the community. If you encounter any issues or have suggestions for improvements, please feel free to [submit an issue](https://github.com/your-username/image-fusion-qt/issues/new) on our GitHub repository.
+We welcome feedback and contributions from the community. If you encounter any issues or have suggestions for improvements, please feel free to [submit an issue](https://github.com/techopswalk/Image-Fusion-Application/issues) on our GitHub repository.
 
 If you would like to contribute to the development of the Image Fusion Qt GUI Application, please check out our [contributing guidelines](https://github.com/your-username/image-fusion-qt/blob/main/CONTRIBUTING.md) and submit a pull request.
 
